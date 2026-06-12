@@ -1,18 +1,15 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**RogerMoens/RogerMoens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Scientist / Machine Learning researcher working on scalable algorithms for large-scale scientific data analysis. My work sits at the intersection of **machine learning, high-performance computing, and scientific computing**, with a focus on making complex data (often terabyte-scale) tractable and interpretable.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Work On
 
-Data Scientist - ML/AI Engineer focused on building scalable technology and enabling teams to solve complex problems.
+- Scalable machine learning for large-scale imaging and time-series data
+- GPU-accelerated optimization and scientific computing
+- Dimensionality reduction and anomaly detection for high-dimensional datasets
+- Retrieval-Augmented Generation (RAG) systems for scientific workflows
+- Distributed and parallel computing systems
+
+---
