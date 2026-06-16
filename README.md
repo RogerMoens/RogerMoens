@@ -1,4 +1,4 @@
-I’m a Data Scientist / Machine Learning researcher working on scalable algorithms for large-scale scientific data analysis. My work sits at the intersection of **machine learning, high-performance computing, and scientific computing**, with a focus on making complex data (often terabyte-scale) tractable and interpretable.
+I’m a Data Scientist / Machine Learning researcher working on scalable algorithms for large-scale scientific data analysis with a strong interest in AI. My work sits at the intersection of **machine learning, high-performance computing, and scientific computing**, with a focus on making complex data (often terabyte-scale) tractable and interpretable.
 
 ---
 
