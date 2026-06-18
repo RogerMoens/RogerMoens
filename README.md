@@ -9,5 +9,3 @@ I’m a Research Engineer working on scalable algorithms for large-scale scienti
 - Dimensionality reduction and anomaly detection for high-dimensional datasets
 - Retrieval-Augmented Generation (RAG) systems for scientific workflows
 - Distributed and parallel computing systems
-
----
